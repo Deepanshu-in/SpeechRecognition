@@ -1,2 +1,10 @@
-matplotlib
 streamlit
+numpy
+matplotlib
+librosa
+scipy
+pandas
+pydub
+soundfile
+openai-whisper
+sounddevice
