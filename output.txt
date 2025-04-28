@@ -1,0 +1,11 @@
+& Turn #1- Prompt ao
+
+want to create a sliding game using Python that will have a 3x3 board with an empty slot at the bottom corner.
+Each piece on the board will represent a part of an image, which will get shuffled. The goal of the game is to
+put the image back together by sliding the pieces into place. Each piece can only be moved in 4 directions: up,
+down, left and right, in other words it can be swapped with any adjacent piece. For the first draft of the game,
+use a number 1-8 on each piece rather than an image. At the start of the game, the pieces should be shown in
+order until a "shuffle" button is clicked. At this point the game will start. To move a piece, the user should click
+on a tile they want to move, and then click on the place where they want it to go. When they click on a non-
+empty tile to move it, the tile should highlight in yellow. The game will end when all numbers are back in order.
+
